@@ -30,7 +30,7 @@ export const Heros = () => {
                         <div className="ml-2">
                             <h1>Know ShipSu already?</h1>
                             <p className="lead">
-                                Not yet? Then start your OTG training right away. You have to achive 100% completion of your traoining before you go home. REMEBER - There might be no more chances in the future.
+                                Not yet? Then start your OTG training right away. You have to achive 100% completion of your training before you go home. REMEBER - There might be no more chances in the future.
                             </p>
                         </div>
                     </div>
@@ -60,7 +60,7 @@ export const Heros = () => {
                             <h1>Know ShipSu already??
                             </h1>
                             <p className="lead">
-                            Not yet? Then start your OTG training right away. You have to achive 100% completion of your traoining before you go home. REMEBER - There might be no more chances in the future.
+                            Not yet? Then start your OTG training right away. You have to achive 100% completion of your training before you go home. REMEBER - There might be no more chances in the future.
                            </p>
                         </div>
                     </div>
