@@ -4,7 +4,7 @@ Simple welcome on board app prepared as a support to safety induction for new jo
 
 **Requirements**
 - Running GoliShip [API server](https://github.com/devgitt82/GoliShip-SpringBoot) with correct database driver details placed in `resource` file.
-- Running database server with imported [SQL]() script database dump file
+- Running database server with imported [SQL](https://github.com/devgitt82/GoliShip-SQL) script database dump file
 
 **Installation:**
 
