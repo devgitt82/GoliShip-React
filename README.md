@@ -1,6 +1,10 @@
-# Goli Welcome On board App.
+# Goli Welcome On board App. - React Client.
 
 Simple welcome on board app prepared as a support to safety induction for new joiners on board a vessel. 
+
+**Requirements**
+- Running GoliShip [API server]() with correct database driver details placed in `resource` file.
+- Running database server with imported [SQL]() script database dump file
 
 **Installation:**
 
