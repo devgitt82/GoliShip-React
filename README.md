@@ -3,7 +3,7 @@
 Simple welcome on board app prepared as a support to safety induction for new joiners on board a vessel. 
 
 **Requirements**
-- Running GoliShip [API resource server](https://github.com/devgitt82/GoliShip-SpringBoot) with correct database source details placed in `application-porperties` file.
+- Running GoliShip [API resource server](https://github.com/devgitt82/GoliShip-SpringBoot) with correct data source details placed in `application-porperties` file.
 - Running database server with imported [SQL](https://github.com/devgitt82/GoliShip-SQL) script database dump file.
 
 **Installation:**
